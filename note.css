@@ -1,0 +1,80 @@
+NOTE {
+display:block;
+font-family:Arial;
+text-align:left;
+}
+
+TITLE {
+display:block;
+background-color:#3870A8;
+color:#FFFFFF;
+font-weight:bold;
+font-size:13;
+padding-top:2;
+padding-left:4;
+padding-bottom:2;
+margin-top:30;
+margin-bottom:30;
+}
+
+
+TO {
+display:block;
+margin-bottom:10;
+margin-top:10;
+font-weight:bold;
+}
+
+FROM {
+display:block;
+margin-bottom:10;
+margin-top:10;
+font-weight:bold;
+}
+
+NAME {
+display:inline;
+font-weight:normal;
+}
+
+TIMEDATE {
+display:block;
+margin-bottom:10;
+margin-top:10;
+font-weight:bold;
+}
+
+DATE {
+display:inline;
+font-weight:normal;
+}
+
+TIME {
+display:inline;
+font-weight:normal;
+}
+
+SUBJECT {
+display:block;
+margin-bottom:10;
+margin-top:10;
+font-weight:bold;
+}
+
+DESC {
+display:inline;
+font-weight:normal;
+}
+
+BODY {
+display:block;
+margin-bottom:10;
+margin-top:30;
+font-weight:bold;
+}
+
+MESSAGE {
+display:block;
+font-weight:normal;
+margin-top:20;
+}

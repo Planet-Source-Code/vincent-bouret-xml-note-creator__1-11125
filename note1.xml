@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<?xml-stylesheet href="note.css" type="text/css"?>
+
+<NOTE>
+<TITLE>XMLNote Creator by Vinchenzo (www.planet-source-code.com)</TITLE>
+
+<HEADER>
+
+<TO>
+To: <NAME>www.planet-source-code.com</NAME>
+</TO>
+
+<FROM>
+From: <NAME>Vinchenzo</NAME>
+</FROM>
+
+<TIMEDATE>
+Date: <DATE>00-08-30</DATE> - <TIME>22:58:00</TIME>
+</TIMEDATE>
+
+<SUBJECT>
+Subject: <DESC>My new XML app is here!</DESC>
+</SUBJECT>
+
+</HEADER>
+
+
+<BODY>
+Message:
+<MESSAGE>
+This XML based program was made to show how you can convert simple user inputs to a nice document with use of style sheets. There's a CSS file with this project that is used to show the XML document in your internet browser.
+</MESSAGE>
+</BODY>
+
+
+</NOTE>
